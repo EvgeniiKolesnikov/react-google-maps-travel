@@ -9,7 +9,6 @@ const App = () => {
     <>
       <CssBaseline />
       <Header />
-      <h1>Hello</h1>
       <Grid container spacing={3} style={{ width: '100%' }}>
         <Grid item xs={12} md={4}>
           <List />
