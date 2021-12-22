@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-google-maps-travel/static/css/main.bab0b925.chunk.css",
+    "main.js": "/react-google-maps-travel/static/js/main.421adbd4.chunk.js",
+    "main.js.map": "/react-google-maps-travel/static/js/main.421adbd4.chunk.js.map",
+    "runtime-main.js": "/react-google-maps-travel/static/js/runtime-main.6b989585.js",
+    "runtime-main.js.map": "/react-google-maps-travel/static/js/runtime-main.6b989585.js.map",
+    "static/js/2.2cc600d7.chunk.js": "/react-google-maps-travel/static/js/2.2cc600d7.chunk.js",
+    "static/js/2.2cc600d7.chunk.js.map": "/react-google-maps-travel/static/js/2.2cc600d7.chunk.js.map",
+    "index.html": "/react-google-maps-travel/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/react-google-maps-travel/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.2cc600d7.chunk.js.LICENSE.txt": "/react-google-maps-travel/static/js/2.2cc600d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b989585.js",
+    "static/js/2.2cc600d7.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.421adbd4.chunk.js"
+  ]
+}
